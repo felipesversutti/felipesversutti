@@ -30,9 +30,9 @@ Hey! Look who it is! <b>Small world, right?</b>  </samp>
 <br>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=noxviw&rank_icon=github&show_icons=true&theme=radical&count_private=true">
-  <img height="170" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=noxviw&layout=compact&theme=radical&count_private=true">
-  <img align="center" height="170" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noxviw&theme=radical"/>
+  <img height="170" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=felipesversutti&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="170" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=felipesversutti&layout=compact&theme=radical&count_private=true">
+  <img align="center" height="170" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipesversutti&theme=radical"/>
 </div>
 
 <br>

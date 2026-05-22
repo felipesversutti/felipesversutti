@@ -38,7 +38,7 @@ Future content creator
 
 <div align="center">
 
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipesversutti&theme=radical" alt="GitHub Profile Details"/>
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipesversutti&theme=radical" alt="GitHub Profile Details"/>
 
   <br><br>
 

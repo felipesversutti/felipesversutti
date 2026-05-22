@@ -37,9 +37,9 @@ Future content creator
 <br><br><br>
 
 <div align="center">
- <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=felipesversutti&show_icons=true&theme=radical&count_private=true"/>
+ <img height="170" src="https://github-readme-stats.vercel.app/api?username=felipesversutti&show_icons=true&theme=radical&count_private=true"/>
 
-  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesversutti&layout=compact&theme=radical"/> -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesversutti&layout=compact&theme=radical"/> 
 
   <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipesversutti&theme=radical"/>
 </div>

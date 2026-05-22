@@ -38,11 +38,11 @@ Future content creator
 
 <div align="center">
 
-  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipesversutti&theme=radical"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipesversutti&theme=radical" alt="GitHub Profile Details"/>
 
   <br><br>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesversutti&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesversutti&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages"/>
 
 </div>
 

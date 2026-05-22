@@ -39,6 +39,11 @@ Future content creator
 <div align="center">
 
   <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipesversutti&theme=radical"/>
+
+  <br><br>
+
+  <img height="170" src="profile/top-langs.svg" alt="Top Languages"/>
+
 </div>
 
 <br><br>
